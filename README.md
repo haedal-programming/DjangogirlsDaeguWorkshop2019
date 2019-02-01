@@ -1,5 +1,5 @@
 # 장고걸스 대구 2019 워크샵
-> 2019년 2월 16일 행사 때 사용할 자료들입니다
+> 2월 16일 엑스코 행사 때 사용할 자료들입니다
 
 코드를 공부하는데 여러 방법들이 았습니다. 각자에게 적합한 방법을 찾아야 합니다.  
 장고를 공부할 때 도움될 방법들을 소개해 드리겠습니다.   
@@ -7,28 +7,25 @@
 워크샵이 끝나고 참가자분들께선 혼자서 공부하셔도 좋습니다.  
 
 ### 1.기본 개념부터 차근차근 
-[장고걸스 공식 튜토리얼](https://tutorial.djangogirls.org/ko/)  
+#### [장고걸스 공식 튜토리얼](https://tutorial.djangogirls.org/ko/)  
 인터넷의 작동 원리부터 장고를 이용한 홈페이지를 만들기 까지  
 필요한 개념을 자세히 설명해주는 튜토리얼입니다.  
 
-
-
 ### 2.무작정 따라하며 배우는 코딩
-[장고걸스 대구 운영진이 만든 튜토리얼](https://github.com/kei01138/djangoProject)
+#### [장고걸스 대구 운영진이 만든 튜토리얼](https://github.com/kei01138/djangoProject)  
 자세한 설명보단 진도 나가는 걸 목표로  
 빠른 속도로 개발할 수 있게 도와주는 튜토리얼입니다.  
 
-
 ### 3.영어로 공부하고 싶어요
-[모질라 재단의 튜토리얼](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)  
-[장고 재단의 튜토리얼](https://www.djangoproject.com/start/)  
-
+#### [모질라 재단의 튜토리얼](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django), [장고 재단의 튜토리얼](https://www.djangoproject.com/start/)  
 시간이 충분하시고 영어 문서를 능숙히 읽으실 수 있다면 읽어보길 추천합니다.   
 장고를 제대로 공부하기 위해 꼭 필요한 문서입니다.  
 
-
 ### 4.책으로 공부하고 싶어요
-[파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
+#### [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)  
+한빛미디어에서 장고를 공부할 많은 기술 서적들을 후원해주셨습니다.  
+장고의 기본부터 클라우드 서버 베포까지 깔끔히 설명된 책으로 운영진들이 판단해  
+이번 장고걸스 대구 2019 워크샵 이후 책으로 공부하고 싶으신 분들께선 위의 책을 추천합니다. 
 
 
 
