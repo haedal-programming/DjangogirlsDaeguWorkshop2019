@@ -64,4 +64,4 @@
 [장고걸스 대구 홈페이지 바로가기](https://djangogirls.org/daegu/)
 
 ## 코치들은 어떤 방식으로 교육해야 할까요?
-[장고걸스 코치 메뉴얼](https://github.com/haedal-programming/DjangogirlsDaeguWorkshop2019/blob/master/coachManual.md)
+[장고걸스 코치 메뉴얼](https://github.com/haedal-programming/DjangogirlsDaeguWorkshop2019/blob/master/coachManual.md)
