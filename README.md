@@ -23,6 +23,7 @@
 #### [장고걸스 대구 운영진이 만든 튜토리얼](https://github.com/kei01138/djangoProject)  
 자세한 설명보단 진도 나가는 걸 목표로  
 빠른 속도로 개발할 수 있게 도와주는 튜토리얼입니다.  
+크롭 브라우져 위에서 코딩할 수 있게 돕는 [구름 IDE](https://ide.goorm.io/)를 사용합니다 
 
 ### 3.영어로 공부하고 싶어요
 #### [모질라 재단의 튜토리얼](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django), [장고 재단의 튜토리얼](https://www.djangoproject.com/start/)  
